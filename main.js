@@ -9,4 +9,10 @@ botoes[j].classList.remove("ativo");
 
 botoes[i].classList.add("ativo");
 }
+ 
+botoes[j].classList.remove("ativo");
+texto[j].classList.remove("ativo");
 }
+
+botoes[i].classList.add("ativo")
+textos[i].classList.add("ativo")
